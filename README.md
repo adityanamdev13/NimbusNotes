@@ -38,7 +38,7 @@ NimbusNotes live demo , Please check it out here : [click me](https://nimbusnote
 1. Clone the repository:
 
    ```bash 
-   git clone [https://github.com/adityanamdev13/NimbusNotes.git ](https://github.com/adityanamdev13/NimbusNotes.git)
+   git clone https://github.com/adityanamdev13/NimbusNotes.git
    ```
 2. Navigate to the project directory:
      ```bash
